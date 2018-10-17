@@ -6,10 +6,12 @@ syntax on
 "检测文件类型
 filetype on
 "自动缩进
-set autoindent
+set cindent
 "tab4格
-set tabstop =4
+set tabstop =22
 "tab转为空格
+set shiftwidth=2
+set softtabstop=2
 set expandtab
 "去掉vi兼容模式
 set nocompatible
@@ -22,5 +24,5 @@ colorscheme peaksea
 set t_C0=256
 set background=dark
 "设置字体
-set guifont=Monaco:h20
+set guifont=Monaco:h15
 "

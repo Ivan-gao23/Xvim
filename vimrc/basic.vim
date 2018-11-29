@@ -1,6 +1,8 @@
 "======================
 "General
 "======================
+"删除键非兼容模式
+set backspace=indent,eol,start
 "取消兼容模式
 set nocompatible
 "语法高亮

@@ -25,6 +25,7 @@ set autoread
 set clipboard=unnamed
 "设置背景
 colorscheme peaksea
+colorscheme peaksea
 set t_C0=256
 set background=dark
 "设置字体

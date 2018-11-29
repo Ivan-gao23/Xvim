@@ -7,13 +7,13 @@ set nocompatible
 syntax on
 "检测文件类型
 filetype on
-"自动缩进
+"自动格式
 set cindent
 "tab4格
-set tabstop =22
+set tabstop =4
 "tab转为空格
-set shiftwidth=2
-set softtabstop=2
+set shiftwidth=4
+set softtabstop=4
 set expandtab
 "去掉vi兼容模式
 set nocompatible
